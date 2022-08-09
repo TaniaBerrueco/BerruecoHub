@@ -1,121 +1,121 @@
-id_distrito_local,id_barrio,Barrio
-1,1,CORTES              
-1,2,EMBAJADORES         
-1,3,JUSTICIA            
-1,4,PALACIO             
-1,5,SOL                 
-1,6,UNIVERSIDAD         
-2,7,ACACIAS             
-2,8,ATOCHA              
-2,9,CHOPERA             
-2,10,DELICIAS            
-2,11,IMPERIAL            
-2,12,LEGAZPI             
-2,13,PALOS DE MOGUER     
-3,14,ADELFAS             
-3,15,ESTRELLA            
-3,16,IBIZA               
-3,17,LOS JERONIMOS       
-3,18,NI?O JESUS          
-3,19,PACIFICO            
-4,20,CASTELLANA          
-4,21,FUENTE DEL BERRO    
-4,22,GOYA                
-4,23,GUINDALERA          
-4,24,LISTA               
-4,25,RECOLETOS           
-5,26,CASTILLA            
-5,27,CIUDAD JARDIN       
-5,28,EL VISO             
-5,29,HISPANOAMERICA      
-5,30,NUEVA ESPA?A        
-5,31,PROSPERIDAD         
-6,32,ALMENARA            
-6,33,BELLAS VISTAS       
-6,34,BERRUGUETE          
-6,35,CASTILLEJOS         
-6,36,CUATRO CAMINOS      
-6,37,VALDEACEDERAS       
-7,38,ALMAGRO             
-7,39,ARAPILES            
-7,40,GAZTAMBIDE          
-7,41,RIOS ROSAS          
-7,42,TRAFALGAR           
-7,43,VALLEHERMOSO        
-8,44,EL GOLOSO           
-8,45,EL PARDO            
-8,46,EL PILAR            
-8,47,LA PAZ              
-8,48,MIRASIERRA          
-8,49,PE?A GRANDE         
-8,50,VALVERDE            
-9,51,ARAVACA             
-9,52,ARGUELLES           
-9,53,CASA DE CAMPO       
-9,54,CIUDAD UNIVERSITARIA
-9,55,VALDEMARIN          
-9,56,VALDEZARZA          
-10,57,ALUCHE              
-10,58,CAMPAMENTO          
-10,59,CUATRO VIENTOS      
-10,60,LAS AGUILAS         
-10,61,LOS CARMENES        
-10,62,LUCERO              
-10,63,PUERTA DEL ANGEL    
-11,64,ABRANTES            
-11,65,BUENAVISTA          
-11,66,COMILLAS            
-11,67,OPA?EL              
-11,68,PUERTA BONITA       
-11,69,SAN ISIDRO          
-11,70,VISTA ALEGRE        
-12,71,ALMENDRALES         
-12,72,MOSCARDO            
-12,73,ORCASITAS           
-12,74,ORCASUR             
-12,75,PRADOLONGO          
-12,76,SAN FERMIN          
-12,77,ZOFIO               
-13,78,ENTREVIAS           
-13,79,NUMANCIA            
-13,80,PALOMERAS BAJAS     
-13,81,PALOMERAS SURESTE   
-13,82,PORTAZGO            
-13,83,SAN DIEGO           
-14,84,FONTARRON           
-14,85,HORCAJO             
-14,86,MARROQUINA          
-14,87,MEDIA LEGUA         
-14,88,PAVONES             
-14,89,VINATEROS           
-15,90,COLINA              
-15,91,CONCEPCION          
-15,92,COSTILLARES         
-15,93,PUEBLO NUEVO        
-15,94,QUINTANA            
-15,95,SAN JUAN BAUTISTA   
-15,96,SAN PASCUAL         
-15,97,VENTAS              
-17,98,BUTARQUE            
-17,99,LOS ANGELES         
-17,100,LOS ROSALES         
-17,101,SAN ANDRES          
-17,102,SAN CRISTOBAL       
-18,103,CASCO H.VALLECAS    
-18,104,ENSANCHE DE VALLECAS
-18,105,SANTA EUGENIA       
-19,106,CASCO H.VICALVARO   
-19,107,VALDEBERNARDO
-20,108,AMPOSTA             
-20,109,ARCOS               
-20,110,CANILLEJAS          
-20,111,EL SALVADOR         
-20,112,HELLIN              
-20,113,REJAS               
-20,114,ROSAS               
-20,115,SIMANCAS            
-21,116,AEROPUERTO          
-21,117,ALAMEDA DE OSUNA    
-21,118,CASCO H.BARAJAS     
-21,119,CORRALEJOS          
-21,120,TIMON               
+id_distrito_local,Barrio,id_barrio
+1,CORTES              ,1
+1,EMBAJADORES         ,2
+1,JUSTICIA            ,3
+1,PALACIO             ,4
+1,SOL                 ,5
+1,UNIVERSIDAD         ,6
+2,ACACIAS             ,7
+2,ATOCHA              ,8
+2,CHOPERA             ,9
+2,DELICIAS            ,10
+2,IMPERIAL            ,11
+2,LEGAZPI             ,12
+2,PALOS DE MOGUER     ,13
+3,ADELFAS             ,14
+3,ESTRELLA            ,15
+3,IBIZA               ,16
+3,LOS JERONIMOS       ,17
+3,NI?O JESUS          ,18
+3,PACIFICO            ,19
+4,CASTELLANA          ,20
+4,FUENTE DEL BERRO    ,21
+4,GOYA                ,22
+4,GUINDALERA          ,23
+4,LISTA               ,24
+4,RECOLETOS           ,25
+5,CASTILLA            ,26
+5,CIUDAD JARDIN       ,27
+5,EL VISO             ,28
+5,HISPANOAMERICA      ,29
+5,NUEVA ESPA?A        ,30
+5,PROSPERIDAD         ,31
+6,ALMENARA            ,32
+6,BELLAS VISTAS       ,33
+6,BERRUGUETE          ,34
+6,CASTILLEJOS         ,35
+6,CUATRO CAMINOS      ,36
+6,VALDEACEDERAS       ,37
+7,ALMAGRO             ,38
+7,ARAPILES            ,39
+7,GAZTAMBIDE          ,40
+7,RIOS ROSAS          ,41
+7,TRAFALGAR           ,42
+7,VALLEHERMOSO        ,43
+8,EL GOLOSO           ,44
+8,EL PARDO            ,45
+8,EL PILAR            ,46
+8,LA PAZ              ,47
+8,MIRASIERRA          ,48
+8,PE?A GRANDE         ,49
+8,VALVERDE            ,50
+9,ARAVACA             ,51
+9,ARGUELLES           ,52
+9,CASA DE CAMPO       ,53
+9,CIUDAD UNIVERSITARIA,54
+9,VALDEMARIN          ,55
+9,VALDEZARZA          ,56
+10,ALUCHE              ,57
+10,CAMPAMENTO          ,58
+10,CUATRO VIENTOS      ,59
+10,LAS AGUILAS         ,60
+10,LOS CARMENES        ,61
+10,LUCERO              ,62
+10,PUERTA DEL ANGEL    ,63
+11,ABRANTES            ,64
+11,BUENAVISTA          ,65
+11,COMILLAS            ,66
+11,OPA?EL              ,67
+11,PUERTA BONITA       ,68
+11,SAN ISIDRO          ,69
+11,VISTA ALEGRE        ,70
+12,ALMENDRALES         ,71
+12,MOSCARDO            ,72
+12,ORCASITAS           ,73
+12,ORCASUR             ,74
+12,PRADOLONGO          ,75
+12,SAN FERMIN          ,76
+12,ZOFIO               ,77
+13,ENTREVIAS           ,78
+13,NUMANCIA            ,79
+13,PALOMERAS BAJAS     ,80
+13,PALOMERAS SURESTE   ,81
+13,PORTAZGO            ,82
+13,SAN DIEGO           ,83
+14,FONTARRON           ,84
+14,HORCAJO             ,85
+14,MARROQUINA          ,86
+14,MEDIA LEGUA         ,87
+14,PAVONES             ,88
+14,VINATEROS           ,89
+15,COLINA              ,90
+15,CONCEPCION          ,91
+15,COSTILLARES         ,92
+15,PUEBLO NUEVO        ,93
+15,QUINTANA            ,94
+15,SAN JUAN BAUTISTA   ,95
+15,SAN PASCUAL         ,96
+15,VENTAS              ,97
+17,BUTARQUE            ,98
+17,LOS ANGELES         ,99
+17,LOS ROSALES         ,100
+17,SAN ANDRES          ,101
+17,SAN CRISTOBAL       ,102
+18,CASCO H.VALLECAS    ,103
+18,ENSANCHE DE VALLECAS,104
+18,SANTA EUGENIA       ,105
+19,CASCO H.VICALVARO   ,106
+19,VALDEBERNARDO,107
+20,AMPOSTA             ,108
+20,ARCOS               ,109
+20,CANILLEJAS          ,110
+20,EL SALVADOR         ,111
+20,HELLIN              ,112
+20,REJAS               ,113
+20,ROSAS               ,114
+20,SIMANCAS            ,115
+21,AEROPUERTO          ,116
+21,ALAMEDA DE OSUNA    ,117
+21,CASCO H.BARAJAS     ,118
+21,CORRALEJOS          ,119
+21,TIMON               ,120
