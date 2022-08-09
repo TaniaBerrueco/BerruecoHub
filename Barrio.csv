@@ -1,0 +1,121 @@
+id_distrito_local,id_barrio,Barrio
+1,1,CORTES              
+1,2,EMBAJADORES         
+1,3,JUSTICIA            
+1,4,PALACIO             
+1,5,SOL                 
+1,6,UNIVERSIDAD         
+2,7,ACACIAS             
+2,8,ATOCHA              
+2,9,CHOPERA             
+2,10,DELICIAS            
+2,11,IMPERIAL            
+2,12,LEGAZPI             
+2,13,PALOS DE MOGUER     
+3,14,ADELFAS             
+3,15,ESTRELLA            
+3,16,IBIZA               
+3,17,LOS JERONIMOS       
+3,18,NI?O JESUS          
+3,19,PACIFICO            
+4,20,CASTELLANA          
+4,21,FUENTE DEL BERRO    
+4,22,GOYA                
+4,23,GUINDALERA          
+4,24,LISTA               
+4,25,RECOLETOS           
+5,26,CASTILLA            
+5,27,CIUDAD JARDIN       
+5,28,EL VISO             
+5,29,HISPANOAMERICA      
+5,30,NUEVA ESPA?A        
+5,31,PROSPERIDAD         
+6,32,ALMENARA            
+6,33,BELLAS VISTAS       
+6,34,BERRUGUETE          
+6,35,CASTILLEJOS         
+6,36,CUATRO CAMINOS      
+6,37,VALDEACEDERAS       
+7,38,ALMAGRO             
+7,39,ARAPILES            
+7,40,GAZTAMBIDE          
+7,41,RIOS ROSAS          
+7,42,TRAFALGAR           
+7,43,VALLEHERMOSO        
+8,44,EL GOLOSO           
+8,45,EL PARDO            
+8,46,EL PILAR            
+8,47,LA PAZ              
+8,48,MIRASIERRA          
+8,49,PE?A GRANDE         
+8,50,VALVERDE            
+9,51,ARAVACA             
+9,52,ARGUELLES           
+9,53,CASA DE CAMPO       
+9,54,CIUDAD UNIVERSITARIA
+9,55,VALDEMARIN          
+9,56,VALDEZARZA          
+10,57,ALUCHE              
+10,58,CAMPAMENTO          
+10,59,CUATRO VIENTOS      
+10,60,LAS AGUILAS         
+10,61,LOS CARMENES        
+10,62,LUCERO              
+10,63,PUERTA DEL ANGEL    
+11,64,ABRANTES            
+11,65,BUENAVISTA          
+11,66,COMILLAS            
+11,67,OPA?EL              
+11,68,PUERTA BONITA       
+11,69,SAN ISIDRO          
+11,70,VISTA ALEGRE        
+12,71,ALMENDRALES         
+12,72,MOSCARDO            
+12,73,ORCASITAS           
+12,74,ORCASUR             
+12,75,PRADOLONGO          
+12,76,SAN FERMIN          
+12,77,ZOFIO               
+13,78,ENTREVIAS           
+13,79,NUMANCIA            
+13,80,PALOMERAS BAJAS     
+13,81,PALOMERAS SURESTE   
+13,82,PORTAZGO            
+13,83,SAN DIEGO           
+14,84,FONTARRON           
+14,85,HORCAJO             
+14,86,MARROQUINA          
+14,87,MEDIA LEGUA         
+14,88,PAVONES             
+14,89,VINATEROS           
+15,90,COLINA              
+15,91,CONCEPCION          
+15,92,COSTILLARES         
+15,93,PUEBLO NUEVO        
+15,94,QUINTANA            
+15,95,SAN JUAN BAUTISTA   
+15,96,SAN PASCUAL         
+15,97,VENTAS              
+17,98,BUTARQUE            
+17,99,LOS ANGELES         
+17,100,LOS ROSALES         
+17,101,SAN ANDRES          
+17,102,SAN CRISTOBAL       
+18,103,CASCO H.VALLECAS    
+18,104,ENSANCHE DE VALLECAS
+18,105,SANTA EUGENIA       
+19,106,CASCO H.VICALVARO   
+19,107,VALDEBERNARDO
+20,108,AMPOSTA             
+20,109,ARCOS               
+20,110,CANILLEJAS          
+20,111,EL SALVADOR         
+20,112,HELLIN              
+20,113,REJAS               
+20,114,ROSAS               
+20,115,SIMANCAS            
+21,116,AEROPUERTO          
+21,117,ALAMEDA DE OSUNA    
+21,118,CASCO H.BARAJAS     
+21,119,CORRALEJOS          
+21,120,TIMON               
